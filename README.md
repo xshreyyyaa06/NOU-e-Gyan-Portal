@@ -57,9 +57,6 @@ Run the project
 Start NouappApplication.java as a Spring Boot application.
 Access the app
 
-Admin: http://localhost:8080/admin
-
-Student: http://localhost:8080/student
 
 🔐 Login Credentials (example)
 You can create users from the database or from the registration page.
